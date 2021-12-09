@@ -1,15 +1,18 @@
 # adventofcode
 
-Welcome to the Advent of Code[^aoc] Kotlin project created by [ithinkihaveacat][github] using the [Advent of Code Kotlin Template][template] delivered by JetBrains.
+Welcome to the Advent of Code[^aoc] Kotlin project created by
+[ithinkihaveacat][github] using the [Advent of Code Kotlin
+Template][template] delivered by JetBrains.
 
-In this repository, ithinkihaveacat is about to provide solutions for the puzzles using [Kotlin][kotlin] language.
+This is very horrible code. I think I've used `reduce()` in every single
+solution so far…
 
-If you're stuck with Kotlin-specific questions or anything related to this template, check out the following resources:
+There's nothing in the Java/Kotlin directories, the action is all in
+the JS (Android Studio was being annoying).
 
-- [Kotlin docs][docs]
-- [Kotlin Slack][slack]
-- Template [issue tracker][issues]
-
+If you're lucky, running the code might more or less get you the part 2 output.
+You'll probably need to modify the code, or uncomment some of it, to get the
+part 1 output.
 
 [^aoc]:
     [Advent of Code][aoc] – An annual event of Christmas-oriented programming challenges started December 2015.
@@ -17,9 +20,4 @@ If you're stuck with Kotlin-specific questions or anything related to this templ
     You can solve the puzzle and provide an answer using the language of your choice.
 
 [aoc]: https://adventofcode.com
-[docs]: https://kotlinlang.org/docs/home.html
 [github]: https://github.com/ithinkihaveacat
-[issues]: https://github.com/kotlin-hands-on/advent-of-code-kotlin-template/issues
-[kotlin]: https://kotlinlang.org
-[slack]: https://surveys.jetbrains.com/s3/kotlin-slack-sign-up
-[template]: https://github.com/kotlin-hands-on/advent-of-code-kotlin-template
